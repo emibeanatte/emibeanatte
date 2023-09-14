@@ -21,17 +21,11 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=emibeanatte.emibeanatte&"  />
-</div>
-
-###
-
 <h1 align="center">Welcome! 👋</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h2 align="left">👩‍💻  About Me</h2>
 
 ###
 
@@ -39,7 +33,7 @@
 
 ###
 
-<h3 align="left">🛠 Skills</h3>
+<h1 align="left">🛠 Skills</h1>
 
 ###
 

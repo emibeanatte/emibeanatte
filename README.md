@@ -33,7 +33,7 @@
 
 ###
 
-<h1 align="left">🛠 Skills</h1>
+<h1 align="center">Skills</h1>
 
 ###
 

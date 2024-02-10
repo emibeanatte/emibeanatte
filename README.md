@@ -1,7 +1,5 @@
-<br clear="both">
-
 <div align="center">
-  <img height="200" src="https://i.gifer.com/3odR.gif"  />
+  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjVqZjA3YTgyYWhraWY0anAwb21kbHllM3l1c2N2ZjljcnVsZXFveiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
 </div>
 
 ###

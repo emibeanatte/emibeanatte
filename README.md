@@ -1,3 +1,5 @@
+<br clear="both">
+
 <div align="center">
   <img height="200" src="https://i.gifer.com/3odR.gif"  />
 </div>

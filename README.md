@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Emiliano from Argentina.<br><br>⚡ Creating bugs since Jan 2023.<br>📚 I'm currently studying Java.<br>🔭 I’m working as Full Stack Developer.</p>
+<p align="left">I'm Emiliano from Argentina.<br><br>⚡ Creating bugs since Jan 2023.<br>📚 I'm currently studying Odoo Framework.<br>🔭 I’m working as Backend Developer.</p>
 
 ###
 

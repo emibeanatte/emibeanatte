@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/emiliano-beanatte-529627152/" target="_blank">
+  <a href="https://www.linkedin.com/in/emibeanatte/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://mail.google.com/mail/u/0/?view=cm&to=emibeanatte98@gmail.com" target="_blank">
